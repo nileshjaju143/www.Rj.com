@@ -1,0 +1,27 @@
+h1{
+    color: chocolate;
+    background-color: black;
+    text-align: center;
+    text-transform: inherit;
+    font-style: oblique;
+    font-size: 40px;
+    text-shadow: 1px 2px 1px wheat;
+}
+p{
+   color: rgb(252, 250, 248);
+   background-color: black;
+   text-shadow: 2px 2px 5px orange;
+   word-spacing: 5px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
