@@ -1,0 +1,17 @@
+h1{
+    color: rgb(112, 4, 4);
+    background-color: rgb(2, 51, 51);
+}
+
+.one{
+ width: 1200px;
+ height: 500px;
+ background-color: chartreuse;
+ text-align: center;
+ background-image: url(img/Bank_of_India_logo.svg.png);
+}
+
+
+
+
+
